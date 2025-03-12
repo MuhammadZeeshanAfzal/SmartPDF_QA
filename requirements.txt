@@ -1,0 +1,8 @@
+Flask==3.0.0
+Werkzeug==3.0.1
+numpy==1.26.2
+PyMuPDF==1.23.6
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+llama-index==0.9.48
+llama-index-llms-huggingface==0.1.4
